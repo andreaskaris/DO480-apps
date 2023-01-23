@@ -1,0 +1,3 @@
+nameSuffix: "-apac"
+bases:
+  - ../../base/
