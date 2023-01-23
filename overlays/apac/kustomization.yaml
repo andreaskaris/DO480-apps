@@ -1,6 +1,8 @@
 nameSuffix: "-apac"
 bases:
   - ../../base/
+resources:
+  - route.yaml
 images:
   - name: registry.redhat.io/rhel8/mysql-80:latest
     newName: registry.redhat.io/rhel8/mysql-80
