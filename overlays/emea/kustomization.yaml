@@ -1,4 +1,4 @@
-nameSuffix: "-apac"
+nameSuffix: "-emea"
 bases:
   - ../../base/
 resources:
@@ -6,4 +6,4 @@ resources:
 images:
   - name: registry.redhat.io/rhel8/mysql-80:latest
     newName: registry.redhat.io/rhel8/mysql-80
-    newTag: 1-152
+    newTag: 1-156
